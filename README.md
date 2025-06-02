@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a passionate **Python enthusiast** and an aspiring developer currently exploring software development through hands-on projects. I enjoy building small tools, learning new technologies, and solving real-world problems using code.
 
 📫 Let's Connect at: 
-- LinkedIn: [Shikha Mahar](www.linkedin.com/in/shikha-m-4b2142318)
+- LinkedIn: [Shikha Mahar](https://www.linkedin.com/in/shikha-m-4b2142318)
 <!-- - Portfolio: [your-portfolio](https://yourwebsite.com) -->
 - Email: shikha.6101@gmail.com
 
@@ -32,11 +32,23 @@ I'm a passionate **Python enthusiast** and an aspiring developer currently explo
 
 ### 📊 GitHub Stats
 <!-- You can enable GitHub Readme Stats from https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ik10&theme=tokyonight)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight)
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night)](https://github.com/ikh10)
+<div align="center">
+
+  <!-- GitHub Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikh10&theme=tokyonight" width="65%" />
+
+  <!-- GitHub Stats and Top Languages Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" width="30%" />
+  <br/><br/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" width="65%" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" width="65%" />
+
+</div>
 
 ---
 Thanks for stopping by! 🌟
