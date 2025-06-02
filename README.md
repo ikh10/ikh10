@@ -41,13 +41,13 @@ I'm a passionate **Python enthusiast** and an aspiring developer currently explo
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" />
 
   <!-- Top Languages -->
-  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" />
 
   <!-- GitHub Streak -->
-  <img height="158em" src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" />
 
   <!-- Contribution Graph -->
-  <img height="158em" src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" />
+  <img height="200em" src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" />
 
 </div>
 
