@@ -35,18 +35,18 @@ I'm a passionate **Python enthusiast** and an aspiring developer currently explo
 <div align="center">
 
   <!-- GitHub Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikh10&theme=tokyonight" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikh10&theme=tokyonight" width="95%" />
 
   <!-- GitHub Stats and Top Languages Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" width="48%" />
   <br/><br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" width="65%" />
+  <img src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" width="95%" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" width="65%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" width="95%" />
 
 </div>
 
