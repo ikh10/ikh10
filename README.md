@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Contribution Graph 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" width="95%" />
 -->
 I'm a passionate **Python enthusiast** and an aspiring developer currently exploring software development through hands-on projects. I enjoy building small tools, learning new technologies, and solving real-world problems using code.
 
@@ -35,20 +38,16 @@ I'm a passionate **Python enthusiast** and an aspiring developer currently explo
 <div align="center">
 
   <!-- GitHub Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikh10&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikh10&theme=tokyonight" width="58%" />
 
   <!-- GitHub Stats and Top Languages Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" width="48%" />
-  <br/><br/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ikh10&show_icons=true&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikh10&layout=compact&theme=tokyonight" width="36%" />
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" width="95%" />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikh10&theme=tokyo-night" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=ikh10&theme=tokyonight" width="43%" />
 
 </div>
+
 
 ---
 Thanks for stopping by! 🌟
